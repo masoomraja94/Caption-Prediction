@@ -1,0 +1,9 @@
+1.Create app in Heroku
+2.Create app in GitHub
+3.In CMD go to your Project folder
+4.Create Procfile ( type nul >> Procfile )
+5.Create 'requirements.txt' file as ( pip freeze > requirements.txt )
+6.Type following commands - ( Given on GitHub after app creation on it )
+  a)echo "# Caption-Prediction" >> README.md
+  b)git init
+  c)git add .
